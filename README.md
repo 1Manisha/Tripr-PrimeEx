@@ -1,2 +1,0 @@
-# Tripr-PrimeEx
-Prime Exercise
